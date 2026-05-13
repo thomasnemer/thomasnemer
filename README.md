@@ -2,7 +2,7 @@
 
 Senior Site Reliability Engineer · Remote, France 🇫🇷
 
-I build and operate developer platforms — CI/CD infrastructure, ephemeral environments, internal Go tooling. Most of my day-to-day code lives in private GitHub orgs. Public experiments and side projects live at [@bombfork](https://github.com/bombfork).
+I build and operate developer platforms — CI/CD infrastructure, internal Go tooling. Most of my day-to-day code lives in private GitHub orgs. Public experiments and side projects live at [@bombfork](https://github.com/bombfork).
 
 ### Public projects worth a click
 
